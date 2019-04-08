@@ -1,1 +1,18 @@
-
+<!DOCTYPE html>
+<html>
+	<meta charset="utf-8">
+<head>
+<title>魔法少女卡樱</title>
+</head>
+<body>
+<h1>魔法少女卡樱</h1>
+<ul>
+<li><a href="#">Clow Card</a></li>
+<li><a href="#">Clow Card</a></li>
+<li><a href="#">Clow Card</a></li>
+</ul>
+<h2>欢迎来到魔法少女的世界</h2>
+<h2>友枝小学</h2>
+<p>木之本樱，是就读于小学4年级的学生。。。。</p>
+</body>
+</html>
